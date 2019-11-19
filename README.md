@@ -105,3 +105,6 @@ API level 15 (Ice Cream Sandwich).
 
 [Using Guava in your build]: https://github.com/google/guava/wiki/UseGuavaInYourBuild
 
+
+https://aprendizadodemaquina.com
+
